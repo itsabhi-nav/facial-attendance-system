@@ -5,7 +5,7 @@ redis
 insightface
 scikit-learn==0.24.2
 datetime==4.3
-streamlit-webrtc==0.16.0
+streamlit-webrtc==0.34.0
 pyav==8.0.2
 matplotlib
 scipy
