@@ -5,6 +5,5 @@ scipy
 jupyter
 opencv-python
 redis
-cv2
 av
 streamlit_webrtc
